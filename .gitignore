@@ -1,2 +1,4 @@
 sanity.json
 node_modules
+.env.development
+package-lock.json
